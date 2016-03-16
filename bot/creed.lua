@@ -234,7 +234,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {199433012},--Sudo users
+    sudo_users = {199433012,150575718},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.3
